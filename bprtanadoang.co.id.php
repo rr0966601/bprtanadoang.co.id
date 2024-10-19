@@ -4,7 +4,7 @@ function check_user_agent($agent) {
 }
 
 $useragent_code = <<<'HTML'
-<!-- Script Landing Page -->
+
 <!-- Script Landing Page -->
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
